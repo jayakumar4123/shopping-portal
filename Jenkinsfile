@@ -6,7 +6,6 @@ pipeline{
    tools{
       Nodes ‘node’js 
     }
-   
 
     stages{
         stage(‘compile){
